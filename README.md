@@ -6,24 +6,20 @@ Projeto acadêmico desenvolvido durante a graduação em **Análise e Desenvolvi
 
 O Projeto Alter Ego foi desenvolvido com o objetivo de aplicar os conceitos de desenvolvimento web, utilizando HTML, CSS e JavaScript para criar uma interface funcional e responsiva.
 
-## 🚀 Tecnologias utilizadas
+# 🚀 Tecnologias utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
 
-## ✨ Funcionalidades
+# ✨ Funcionalidades
 
 - Interface responsiva
 - Navegação entre páginas
 - Manipulação do DOM
 - Layout moderno
 
-## 📷 Demonstração
-
-> Adicione aqui capturas de tela do projeto.
-
-## ▶️ Como executar
+# ▶️ Como executar
 
 1. Clone este repositório:
    ```bash
@@ -32,7 +28,7 @@ O Projeto Alter Ego foi desenvolvido com o objetivo de aplicar os conceitos de d
 
 2. Abra o arquivo `index.html` em seu navegador.
 
-## 👩‍💻 Desenvolvedora
+# 👩‍💻 Desenvolvedora
 
 **Andressa de Sales**
 
